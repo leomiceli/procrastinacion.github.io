@@ -1,2 +1,4 @@
 # procrastinacion.github.io
-for jekkil
+
+TODO: enable jekyll build locally 
+
